@@ -206,7 +206,7 @@ El primer usuario registrado obtiene permisos de administrador.
 # 📂 Estructura del Proyecto
 
 ```bash
-OnlineMovieStreaming/
+PlataformaWebStreamingPeliculas/
 │
 ├── uploads/                 # Posters e imágenes
 ├── video-uploads/           # Videos multimedia
@@ -226,7 +226,7 @@ OnlineMovieStreaming/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/OnlineMovieStreaming
+git clone https://github.com/isairey/PlataformaWebStreamingPeliculas
 ```
 
 ---
@@ -399,7 +399,7 @@ git push origin feature/nueva-funcion
 
 <div align="center">
 
-## Full Stack Streaming Developer
+## Isai Reyes Full Stack Streaming Developer
 
 Apasionado por plataformas multimedia, aplicaciones streaming y desarrollo web moderno.
 
